@@ -332,7 +332,8 @@ margin-left: 30px;
     height:50px;
     margin-left: 30px;
 }
-@media screen and (max-height:1500px),(max-width:1100px){
+/* 
+@media screen and (max-height:2000px),(max-width:1034px){
 .nav1{
     width: 100%;
   
@@ -342,29 +343,21 @@ margin-left: 30px;
     margin-top: 20px; margin-right: -70px; width: 40%; height: 90%;
 }#rece{
     margin-top: 260px; margin-left: 300px;
-}
-#pp{
+}.one1{
+    width: 50%;height: 50%; padding:10px;
+}#pp{
     width: 40%; height: 30%;margin-left: 100px;
-}
-/* #img1{width: 40%;}
-#img2{width: 40%;}
-#img3{width: 40%;}
-#img4{width: 40%;}
-#img5{width: 40%;}
-#img6{width: 40%;}
-#img7{width: 40%;}
-#img8{width: 40%;} */
-
-#img18{
-  margin-left: 370px;}
-#img10{ margin-left: 560px;margin-bottom: 20px;}
-#img11{padding: 0px;margin-left: 280px;margin-bottom: 35px;}
-#img12{margin-left: 890px; margin-bottom: 50px;}
-
-#img14{margin-left: 290px;margin-bottom: 10px;}
-#img15{margin-left: 600px;margin-bottom: 20px;}
-#img16{margin-left: 850px;margin-bottom: 38px;}
-
+}#img18{
+    width: 40%;margin-left: 160px;}
+    #img9{width: 30%;}
+#img10{width: 40%; margin-left: 150px;margin-bottom: 20px;}
+#img11{width: 35%;padding: 0px;margin-left: 310px;margin-bottom: 35px;}
+#img12{width: 40%; margin-left: 450px; margin-bottom: 50px;}
+#img13{width: 30%;}
+#img14{width: 40%;margin-left: 150px;margin-bottom: 10px;}
+#img15{width: 30%;margin-left: 300px;margin-bottom: 20px;}
+#img16{width: 30%;margin-left: 420px;margin-bottom: 38px;}
+#img17{width: 34%;}
 #mave{
     margin-left: 100px;
 }
@@ -386,6 +379,25 @@ width: 70%;
 #big{
     width: 143%;
 }#fyuu{margin-top: 10px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ */
+
+
 
 
 
