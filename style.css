@@ -1,4 +1,4 @@
-@media screen and (max-height:2000px),(max-width:1300px){
+
 
     .body {
       padding: 0px;
@@ -331,4 +331,65 @@ margin-left: 30px;
     width: 50px;
     height:50px;
     margin-left: 30px;
-}}
+}
+@media screen and (max-height:1500px),(max-width:1100px){
+.nav1{
+    width: 100%;
+  
+}.nav2{
+    width: 140%; height: 50%; 
+}.pictext{
+    margin-top: 20px; margin-right: -70px; width: 40%; height: 90%;
+}#rece{
+    margin-top: 260px; margin-left: 300px;
+}
+#pp{
+    width: 40%; height: 30%;margin-left: 100px;
+}
+/* #img1{width: 40%;}
+#img2{width: 40%;}
+#img3{width: 40%;}
+#img4{width: 40%;}
+#img5{width: 40%;}
+#img6{width: 40%;}
+#img7{width: 40%;}
+#img8{width: 40%;} */
+
+#img18{
+  margin-left: 370px;}
+#img10{ margin-left: 560px;margin-bottom: 20px;}
+#img11{padding: 0px;margin-left: 280px;margin-bottom: 35px;}
+#img12{margin-left: 890px; margin-bottom: 50px;}
+
+#img14{margin-left: 290px;margin-bottom: 10px;}
+#img15{margin-left: 600px;margin-bottom: 20px;}
+#img16{margin-left: 850px;margin-bottom: 38px;}
+
+#mave{
+    margin-left: 100px;
+}
+#last1{
+width: 70%;
+}
+#last2{
+    width: 50%;height: 70px;
+}
+#last3{
+    width: 50%;height: 70px;
+}
+#dis{
+    margin-left: 150px;
+}
+.gee{
+    width: 143%; height: 30%;
+}
+#big{
+    width: 143%;
+}#fyuu{margin-top: 10px;}
+
+
+
+
+
+
+}
