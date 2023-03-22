@@ -1,5 +1,4 @@
 
-
     .body {
       padding: 0px;
       margin: 0px;
@@ -14,12 +13,9 @@
     font-weight: 700;
 }
 .body{
-    /* width:900px; */
     padding: 0px;
     margin: 0;
-    /* overflow-x: hidden;
-    overflow-y: scroll; */
-   
+ 
 }
 .nav1 ul li{
     display: inline-flex;
@@ -57,8 +53,9 @@
     padding: 10px 25px 10px 10px;
     margin-left: 300px;
     cursor: pointer;
- 
 }
+
+#link1{font-size: 17px;font-weight: 700;}
 
 .p0{
     width: 60%;
@@ -108,11 +105,11 @@ cursor:pointer;
    
 }
 #lastsel{
-    padding: 7px 12px;
+    padding: 7px 13px;
     font-weight: 800; font-size: 15px;
- border-radius: 25%;
+ border-radius: 40%;
  background-color: #FFD600;
- color: white;
+ color:black;
  margin-left: 20px;
 
 }
@@ -271,13 +268,13 @@ margin-left: 500px;
   
 }
 #in{
-    margin-left: 700px;
-    border-radius: 9px;
-    padding: 5px 10px; height: 22px; width: 70px;
+    margin-left: -500px;
+    border-radius: 13px;
+    padding: 5px 7px; height: 22px; width: 70px;
 margin-top: 10px;
     
 }
-#send{
+/* #send{
 margin-top: 10px;
 border-radius: 9px;
 padding: 5px 10px;
@@ -285,7 +282,7 @@ background-color:#E70062;
 height: 35px; width: 60px;
 margin-right: 177px;
 
-}
+} */
 #big{
     background-color: #260046;color: white;
     margin-top: -20px;
@@ -332,76 +329,9 @@ margin-left: 30px;
     height:50px;
     margin-left: 30px;
 }
-/* 
-@media screen and (max-height:2000px),(max-width:1034px){
-.nav1{
-    width: 100%;
-  
-}.nav2{
-    width: 140%; height: 50%; 
-}.pictext{
-    margin-top: 20px; margin-right: -70px; width: 40%; height: 90%;
-}#rece{
-    margin-top: 260px; margin-left: 300px;
-}.one1{
-    width: 50%;height: 50%; padding:10px;
-}#pp{
-    width: 40%; height: 30%;margin-left: 100px;
-}#img18{
-    width: 40%;margin-left: 160px;}
-    #img9{width: 30%;}
-#img10{width: 40%; margin-left: 150px;margin-bottom: 20px;}
-#img11{width: 35%;padding: 0px;margin-left: 310px;margin-bottom: 35px;}
-#img12{width: 40%; margin-left: 450px; margin-bottom: 50px;}
-#img13{width: 30%;}
-#img14{width: 40%;margin-left: 150px;margin-bottom: 10px;}
-#img15{width: 30%;margin-left: 300px;margin-bottom: 20px;}
-#img16{width: 30%;margin-left: 420px;margin-bottom: 38px;}
-#img17{width: 34%;}
-#mave{
-    margin-left: 100px;
-}
-#last1{
-width: 70%;
-}
-#last2{
-    width: 50%;height: 70px;
-}
-#last3{
-    width: 50%;height: 70px;
-}
-#dis{
-    margin-left: 150px;
-}
-.gee{
-    width: 143%; height: 30%;
-}
-#big{
-    width: 143%;
-}#fyuu{margin-top: 10px;}
 
+ @media screen and (max-width:1280), (max-height:1366){ 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- */
-
-
-
-
-
-
-
-
-}
+ }
+ 
+ 

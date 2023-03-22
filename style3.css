@@ -1,0 +1,55 @@
+#homee{font-size: 17px;font-weight: 700; margin-left: 120px;}
+.about{ display:flex; justify-content: space-between; background-color: whitesmoke; margin-left: -7px; margin-right: -7px;  height: 40px; padding-left: 100px;}
+.about ul li{ display: inline;  padding-right: 180px;  font-weight: 900; font-size: 16px;}
+#catah{ margin-left: 550px; margin-bottom: 50px;}
+.fav{ display: flex; margin-left: -7px; margin-right: -7px; background-color:#FFD600; padding-top: 10px; height: 45px; height: 55px;  }
+#log{width: 30px; height: 30px; margin-left: 40px;}
+#cata{width: 30px; height: 30px; margin-left: 100px;}
+#brick{padding-right: 40px;padding-left: 10px;}
+#catalog{padding-right: 50px;padding-left: 10px;}
+#searchicon{ padding-left: 10px;  border-radius: 15px;  padding-right: 10px; cursor: pointer;margin-top: 10px; margin-bottom:15px;display: flex;margin-left: 140px;}
+.icons{ margin-left: 350px; font-size: 20px; display: flex;  padding: 15px;}
+#hat{margin-top: -20px; margin-left: 60px;}
+#img1{width: 47%;height: 35%}#p{margin-bottom:-47px;}
+#img11{ width: 7%;margin-bottom: -50px;margin-left: -350px;}
+#img12{width: 6%;margin-bottom: -50px;margin-left: 1px;}
+#img13{width: 6%;margin-bottom: -50px;margin-left: 3px;}
+#img14{width: 5%;margin-bottom: -50px;margin-left: 1px;}
+.didi{margin-top: 50px; margin-left: 50px;}
+#bn1{border-radius: 20px;background-color: #E70062;width: 3.2%;border: 0.5px solid black;font-weight: 700;color: white;}
+.side{margin-top: -30px; float: right;margin-right: 180px;font-size:larger;}
+#head{ font-size: 25px; font-weight: 930;}
+#now{color:rgb(1, 136, 1); font-weight: 800;}
+#price{font-weight: 900;}
+#high{margin-top: -41px;margin-left: 90px; text-decoration: line-through;}
+.minus{border: 1px solid;width: 5%;padding: 5px;border-radius: 5px;font-size: 10px; text-align: center;}
+.plus{border:1px solid; width: 5%; margin-top: -44px;margin-left: 62px;padding: 5px;border-radius: 5px;background-color: #FFD600;font-size: 10px;text-align: center;}
+.num{margin-top: -20px;margin-left: 39px;}
+#add{padding: 7px 35px;border-radius: 5px; background-color: #FFD600;}
+#seead{margin-left: 200px; margin-top: -40px; text-decoration: underline;color:#E70062}
+#free{margin-left: 200px; margin-top: -40px;color:rgb(41, 134, 41);}
+.butys{display: flex;margin-top: 120px;margin-left: 400px;}
+#buty1{padding: 10px 35px;background-color:#FFD600;font-weight: 600;border:hidden}#buty2{padding: 10px 35px;border: hidden;margin-left: 30px;}#buty3{padding: 10px 40px;border: hidden;margin-left: 30px;}#heh{margin-top: 0px;}
+.maneno{margin-left: 300px;font-size:18px;font-weight: 400;margin-top: 60px;}
+#function{font-weight: 700; font-size: 25px;margin-left: 500px;}
+#t3{margin-bottom: -220px;margin-left: 250px;border:2px solid yellow;border-radius: 15px;}#t2{width: 350px;height: 230px;margin-left:-300px;border:2px solid yellow;border-radius: 15px;}#t1{width: 350px;margin-left: 30px;border:2px solid yellow;border-radius: 15px;}
+#you{font-weight: 700; font-size: 25px;margin-left: 500px;margin-top: 240px; margin-bottom: 100px;}
+.just{margin-left:45px ; margin-top:50px ;font-size: 15;width:35px}
+#dis{border: hidden;font-size:7px;padding:12px 5px}
+#star{display: flex; font-size: small;color:#FFD600}
+.dago{width: 35px;margin-top: -380px;margin-left: 350px;font-size: 15;}
+#dis{ color: white; font-weight: 800; border-radius: 18px; background-color: rgb(170, 13, 40);text-align: center;width: 45px;font-size: 10px;}
+.ship{margin-top: -325px;margin-left: 650px;font-size: 15;}
+#j{width: 150px;}#d{width: 150px;}#g{width: 150px;}
+.santo{margin-left: 900px;margin-top: -369px;font-size:15 ;}
+#o{width: 150px;}
+.once{  display: flex; justify-content: space-between;  background-color: #260046;;  margin-left: -59px; margin-right: 0px;margin-top: 60px; ;color: white;}
+#all1{color: white; background-color: #260046;font-weight: 800;}
+#staki{ width: 50px; height:50px; margin-left: 30px;}
+.b1{ margin-left: 30px;}
+
+
+
+
+
+
